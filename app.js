@@ -1,2 +1,1 @@
-const ColorP = document.querySelector('p');
-ColorP.style.color = "pink";
+const colorP = document.querySelector('p');
